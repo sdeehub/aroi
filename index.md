@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'aroi - เรื่องกินเรื่องใหญ่'
+landing-title: 'aroi! - เรื่องกินเรื่องใหญ่'
 description: null
 image: null
 author: null
