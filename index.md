@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to SDEE's foodie tales'
+landing-title: "Welcome to SDEE's foodie tales"
 description: null
 image: null
 author: null
