@@ -11,7 +11,7 @@ city: Chankasem Jatuchuk
 state: Bangkok
 zip_code: 10900
 country: Thailand
-phone: 0954.639.444
+phone: 0.954.639.444
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
