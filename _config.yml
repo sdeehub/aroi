@@ -1,7 +1,7 @@
 # site settings
 title: sdeehub.github.io
 subtitle: /aroi
-email: odd.daboss@gmail.com
+email: aroi.sdee.co@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/aroi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Chankasem Jatuchuk
 state: Bangkok
 zip_code: 10900
 country: Thailand
-phone:
+phone: 0954.639.444
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
